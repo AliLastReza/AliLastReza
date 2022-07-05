@@ -10,7 +10,7 @@
 <li><p>A software developer with nearly 2 years of software development experience and more than 5 years of website design experience.</p></li>
 <li><p>Designed & developed many RESTful API services in production.- Has experience in developing ERP software.</p></li>
 <li><p>Created several data dashboards for gaining insights.</p></li>
-<li><p>Has been a teacher assistant and more for 70+ students.
+<li><p>Has been a teacher assistant and more for 70+ students.</p></li>
 <li><p>Also, a software engineering graduate.</p></li>
 
 <!-- <p align="left"> <a href="https://twitter.com/AliLastReza" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
@@ -26,6 +26,8 @@
 <li><p>📄 Know about my experiences on **[my LinkedIn profile](https://www.linkedin.com/in/AliLastReza/).**</p></li>
 
 <li><p>⚡ Fun fact **I saw Friends series 3 times.**</p></li>
+
+</ul>
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
