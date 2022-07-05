@@ -19,13 +19,13 @@
 
 <!-- - 📝 I regularly write articles on [AliLastReza.ir](AliLastReza.ir) -->
 
-<li><p>💬 Ask me about **Python, SQL, Django, DRF, Odoo, and Celery.**</p></li>
+<li><p>💬 Ask me about <strong>Python, SQL, Django, DRF, Odoo, and Celery.</strong></p></li>
 
-<li><p>📫 How to reach me **AliLastReza@pm.me**, full contact info is available on **[AliLastReza.ir](AliLastReza.ir)**</p></li>
+<li><p>📫 How to reach me <strong><a href="mailto:AliLastReza@pm.me">AliLastReza@pm.me</a></strong>, full contact info is available on <strong><a href="https://AliLastReza.ir/">AliLastReza.ir</a></strong></p></li>
 
-<li><p>📄 Know about my experiences on **[my LinkedIn profile](https://www.linkedin.com/in/AliLastReza/).**</p></li>
+<li><p>📄 Know about my experiences on <strong><a href="https://www.linkedin.com/in/AliLastReza/">my LinkedIn profile</a>.</strong></p></li>
 
-<li><p>⚡ Fun fact **I saw Friends series 3 times.**</p></li>
+<li><p>⚡ Fun fact <strong>I saw Friends series 3 times.</strong></p></li>
 
 </ul>
 
