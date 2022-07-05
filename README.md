@@ -7,12 +7,11 @@
 
 <!-- <h3>About me:</h3> -->
 
-- I'm a software developer with nearly 2 years of software development experience and more than 5 years of website design experience.
-- I Designed & developed many RESTful API services in production.
-- I Have experience in developing ERP software.
-- I Created several data dashboards for gaining insights.
-- I Have been teacher assistant and more for 70+ students.
-- Also, I'm a software engineering graduate.
+- A software developer with nearly 2 years of software development experience and more than 5 years of website design experience.
+- Designed & developed many RESTful API services in production.- Has experience in developing ERP software.
+- Created several data dashboards for gaining insights.
+- Has been a teacher assistant and more for 70+ students.
+- Also, a software engineering graduate.
 
 <!-- <p align="left"> <a href="https://twitter.com/AliLastReza" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
@@ -20,11 +19,11 @@
 
 <!-- - 📝 I regularly write articles on [AliLastReza.ir](AliLastReza.ir) -->
 
-- 💬 Ask me about **Python, SQL, Django, DRF, Odoo, and Celery**
+- 💬 Ask me about **Python, SQL, Django, DRF, Odoo, and Celery.**
 
 - 📫 How to reach me **AliLastReza@pm.me**, full contact info is available on **[AliLastReza.ir](AliLastReza.ir)**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/AliLastReza/](https://www.linkedin.com/in/AliLastReza/)
+- 📄 Know about my experiences on **[my LinkedIn profile](https://www.linkedin.com/in/AliLastReza/).**
 
 - ⚡ Fun fact **I saw Friends series 3 times.**
 
@@ -70,22 +69,22 @@
 
 <h3>📰 I'm Currently...</h3>
 
-- 🔭 I’m currently working on **getting a new well-paying remote job & my blog**
+- 🔭 I’m currently working on **getting a new well-paying remote job & my blog.**
 
-- 🌱 I’m currently learning **Phoenix framework and Hugo static site generator**
+- 🌱 I’m currently learning **Phoenix framework and Hugo static site generator.**
 
 <!-- - 👯 I’m looking to collaborate on **Django** -->
 
-- 🤝 I’m looking for help with **getting a well-paying remote job**
+- 🤝 I’m looking for help with **getting a well-paying remote job.**
 
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/alilastreza"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alilastreza" /></a><a href="https://ko-fi.com/alilastreza"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="alilastreza" /></a></p><br><br> -->
 
-### 📊 Stats
+<!-- ### 📊 Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alilastreza&show_icons=true&locale=en&layout=compact" alt="alilastreza" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alilastreza&show_icons=true&locale=en" alt="alilastreza" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alilastreza&show_icons=true&locale=en" alt="alilastreza" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alilastreza&" alt="alilastreza" /></p> -->
 
