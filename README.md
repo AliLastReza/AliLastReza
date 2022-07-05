@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ali 😃</h1>
-<h2 align="center">A Software Developer 👨‍💻 from Iran</h2>
+<h3 align="center">A Software Developer 👨‍💻 from Iran</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alilastreza&label=Profile%20views&color=0e75b6&style=flat" alt="alilastreza" /> </p> -->
 
@@ -31,7 +31,9 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h2 align="left">🤝 Connect with me:</h2>
+&nbsp;
+
+## 🤝 &nbsp;Connect with me
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&color=306998&background=FFE873&center=true&vCenter=true&lines=Send+a+connection+request!;I+love+connecting+with+you)](https://git.io/typing-svg) -->
 
@@ -51,7 +53,10 @@
 <!-- <a href="/alilastreza.ir/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="alilastreza.ir/feed" height="30" width="40" /></a> -->
 </p>
 
-<h2 align="left">🧰 Languages and Tools:</h2>
+&nbsp;
+
+## 🧰 &nbsp;Languages and Tools
+
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
@@ -67,7 +72,9 @@
 <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a>
 </p>
 
-<h2>📰 I'm Currently...</h2>
+&nbsp;
+
+## 📰 &nbsp;I'm Currently...
 
 - 🔭 I’m currently working on **getting a new well-paying remote job & my blog.**
 
