@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ali 😃</h1>
-<h3 align="center">A Software Developer 👨‍💻 from Iran</h3>
+<h3 align="center">A Software Developer 👨‍💻</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alilastreza&label=Profile%20views&color=0e75b6&style=flat" alt="alilastreza" /> </p> -->
 
@@ -7,7 +7,7 @@
 
 <!-- <h3>About me:</h3> -->
 <ul>
-<li><p>A software developer with nearly 2 years of software development experience and more than 5 years of website design experience.</p></li>
+<li><p>A software developer with +2 years of software development experience and +5 years of website design experience.</p></li>
 <li><p>Designed & developed many RESTful API services in production.- Has experience in developing ERP software.</p></li>
 <li><p>Created several data dashboards for gaining insights.</p></li>
 <li><p>Has been a teacher assistant and more for 70+ students.</p></li>
@@ -21,7 +21,7 @@
 
 <li><p>💬 Ask me about <strong>Python, SQL, Django, DRF, Odoo, and Celery.</strong></p></li>
 
-<li><p>📫 How to reach me <strong><a href="mailto:AliLastReza@pm.me">AliLastReza@pm.me</a></strong>, full contact info is available on <strong><a href="https://AliLastReza.ir/">AliLastReza.ir</a></strong></p></li>
+<li><p>📫 How to reach me <strong><a href="mailto:AliLastReza@pm.me">AliLastReza@pm.me</a></strong></p></li>
 
 <li><p>📄 Know about my experiences on <strong><a href="https://www.linkedin.com/in/AliLastReza/">my LinkedIn profile</a>.</strong></p></li>
 
@@ -46,7 +46,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/alilastreza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alilastreza" height="30" width="40" /></a>
 <a href="https://instagram.com/alilastreza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alilastreza" height="30" width="40" /></a>
-<a href="https://dev.to/alilastreza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alilastreza" height="30" width="40" /></a>
+<!-- <a href="https://dev.to/alilastreza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alilastreza" height="30" width="40" /></a> -->
 <!-- <a href="https://stackoverflow.com/users/alilastreza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alilastreza" height="30" width="40" /></a> -->
 <!-- <a href="https://medium.com/@alilastreza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alilastreza" height="30" width="40" /></a> -->
 <!-- <a href="https://www.leetcode.com/alilastreza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alilastreza" height="30" width="40" /></a> -->
