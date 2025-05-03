@@ -1,11 +1,9 @@
 
-<h1 align="center"> Hi there 👋, I'm Mohmmad Ali! </h1>
+<h2 align="center"> Hi there 👋, I'm Mohmmad Ali! </h2>
 
-A passionate Python Backend Developer with around 3 years of experience, currently focused on building robust and efficient solutions. I'm driven by principles of **efficiency, collaboration, continuous learning, and user-centricity** in my work.
+A passionate **Python Backend Developer** with **3 years of experience**, currently focused on building robust and efficient solutions.
 
 My current tech stack and interests include:
-
-<![endif]-->
 
 * **Programming Languages:** Python, JavaScript
 * **Frameworks:** Django, Django REST Framework, Odoo, FastAPI, Django Oscar, Vue.js
